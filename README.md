@@ -22,7 +22,7 @@
 ![Design](https://skillicons.dev/icons?i=ps,ai,xd,figma)
 
 # Others
-![Design](https://skillicons.dev/icons?i=postman)
+![Others](https://skillicons.dev/icons?i=postman)
 
 
 
