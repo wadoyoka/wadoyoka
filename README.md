@@ -4,13 +4,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=wadoyoka&show_icons=true&locale=en&layout=compact)
 
 # FrameWork
-![FrameWork](https://skillicons.dev/icons?i=nextjs,react)
+![FrameWork](https://skillicons.dev/icons?i=nextjs,react,express,arduino)
 
 # CSS Framework
 ![CSS_Framework](https://skillicons.dev/icons?i=tailwind,bootstrap)
 
 # Saas
-![Saas](https://skillicons.dev/icons?i=aws,gcp,firebase)
+![Saas](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)
 
 # Server
 ![Server](https://skillicons.dev/icons?i=cloudflare)
@@ -22,7 +22,7 @@
 ![Design](https://skillicons.dev/icons?i=ps,ai,xd,figma)
 
 # Others
-![Others](https://skillicons.dev/icons?i=postman)
+![Others](https://skillicons.dev/icons?i=postman,notion)
 
 
 
